@@ -2,6 +2,10 @@
 
 Welcome to the Git and GitHub workshop! This guide will walk you through the basic commands you'll need to start using Git and GitHub effectively.
 
+![Git and GitHub Work Process](https://raw.githubusercontent.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7/main/Git%20%26%20Github%20Class%203-4/git%20%26%20github%20work%20process.webp)
+
+![GitHub Understanding](https://raw.githubusercontent.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7/main/Git%20%26%20Github%20Class%203-4/github%20understanding.webp)
+
 ## Step-by-Step Guide
 
 ### 1. Install Git
