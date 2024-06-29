@@ -14,3 +14,14 @@ Welcome to the Git and GitHub workshop! This guide will walk you through the bas
   ```sh
   git
   ```
+### 3. Configure Git
+
+- Open the command prompt as an administrator.
+- Set your username:
+  ```sh
+  git config --global user.name "your name"
+  ```
+- Set your email:
+  ```sh
+  git config --global user.email "your email"
+  ```
